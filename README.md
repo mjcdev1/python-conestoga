@@ -5,4 +5,4 @@
 ### To run any of the scripts in this repository, open a command line and run 'python3 <file_name>.py" for the script you want, replacing <file_name> with the name of the file. You must have python3 installed on your system. 
 
 ### Scripts: 
-**python_blackjack.py**: A blackjack game made in Python that features a simple betting and bank account system 
+**python_blackjack.<sub>py</sub>**: A blackjack game made in Python that features a simple betting and bank account system 
